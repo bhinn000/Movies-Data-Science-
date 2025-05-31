@@ -1,4 +1,6 @@
 ![Python Version](https://img.shields.io/badge/python-3.11-blue.svg)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_NOTEBOOK_URL)
+
 
 **Movie Dataset Analysis**
 This project explores a dataset of movies with columns like release date, title, popularity, vote counts, genre, and more. The main goals were to clean and preprocess the data and create some visualizations.
