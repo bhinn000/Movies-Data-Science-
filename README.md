@@ -1,3 +1,5 @@
+![Python Version](https://img.shields.io/badge/python-3.11-blue.svg)
+
 **Movie Dataset Analysis**
 This project explores a dataset of movies with columns like release date, title, popularity, vote counts, genre, and more. The main goals were to clean and preprocess the data and create some visualizations.
 
